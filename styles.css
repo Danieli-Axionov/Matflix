@@ -1,4 +1,24 @@
 body{
-    background-color: brown;
+    background-color: rgb(96, 60, 48),
     color: white;
+}
+
+header{
+    padding-bottom: 3%;
+    padding-top: 3%;
+    margin-left: 5%;
+    font-size: 30px; 
+    padding-bottom: solid 2px white; 
+}
+
+h1{
+    text-size-adjust: 26px;
+}
+
+section{
+    background: green;
+    padding-bottom: 8%;
+    padding-top: 8%;
+    display: flex;
+    justify-content: center;
 }
