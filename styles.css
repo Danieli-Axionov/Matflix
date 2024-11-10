@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(96, 60, 48),
+    background-color: pink,
     color: white;
 }
 
@@ -16,7 +16,7 @@ h1{
 }
 
 section{
-    background: green;
+    background:rgb(96, 60, 48);
     padding-bottom: 8%;
     padding-top: 8%;
     display: flex;
